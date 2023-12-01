@@ -5,7 +5,7 @@
 
 I am graduated from BFCAI 
 
-Skills: Skills:  JS / HTML / CSS / PHP / LARAVEL /MYSQL/ Bootstrap
+Skills: HTML /  CSS / JS / Bootstrap / PHP / Mysql / Laravel 
 
 - 🔭 I’m currently working on My Own 
 - 🌱 I’m currently learning Laravel 
